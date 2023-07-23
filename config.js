@@ -13,12 +13,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
-['5218442286089', 'DIEGO-OFC | COLABO', true],
-['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
+['18325326273', 'TURBITO👻🤓', true], 
+['50240289706, '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['50240289706, '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
+['50237148189', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+['', 'TONY-OFC | ', true],
+[''], [''], [''], ['']]
 
 global.mods = [] 
 global.prems = []
@@ -80,16 +80,16 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'TURBITO'
+global.author = 'OFC TONY
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['18059api.lolhum TURBITO 💻', 1], 
+['50240289706', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['50240289706', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['50237148189', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -99,29 +99,29 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.2'
 global.vsJB = '4.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = 'TURBITO'
+global.yt = 'http://tiktok.com/@coin.exe1'
+global.yt2 = 'https://www.tiktok.com/@alexx_xd_7?_t=8eEP847rJf3&_r=1'
+global.ig = ''
+global.md = 'https://chat.whatsapp.com/GccVNsJEVKpBZB4ZVu0rm9'
+global.fb = ''
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/F6YBN9zDuGw50hdlceW21x' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/ImTnZ3pvmI0Dc5nQNlxVaj' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/GRLe6IF8Sec7xbJsSBFbla' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/GccVNsJEVKpBZB4ZVu0rm9' //GRUPO INSANO
+global.nna2 = 'https://chat.whatsapp.com/LIgQeXZvYeS0k0rxBbYKIB' //Help
+global.nn = '' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = 
+global.nnntt = '' //Grupo 4
+global.nnnttt = '' //Grupo 5
+global.nnnttt1 = '' //Grupo 6 COL
+global.nnnttt2 = '' //Grupo 7 COL
+global.nnnttt3 = 'https://https://chat.whatsapp.com/L4cpzEr1wGOAEVdWeWBMn7' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/GccVNsJEVKpBZB4ZVu0rm9' //Grupo 9 COL
+global.paypal = ''
+global.asistencia = '' //...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'TURBITO' : TONY OFC'
+global.igfg = 'TURBITO'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
